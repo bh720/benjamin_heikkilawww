@@ -1,0 +1,1 @@
+more flexibility, consistent error handling, better support for web application features, mobile support, new elements like video, time, nav, section, progress, meter, aside and canvas, new attributes including charset, async and ping
